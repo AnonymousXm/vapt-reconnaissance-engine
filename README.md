@@ -1,4 +1,4 @@
-# Stage 5 — Advanced VAPT Reconnaissance Engine
+# Stage 5 - Advanced VAPT Reconnaissance Engine
 
 ## Overview
 
