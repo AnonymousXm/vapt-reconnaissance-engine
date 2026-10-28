@@ -1,32 +1,24 @@
-# Stage 5 - Advanced VAPT Reconnaissance Engine
+# 🚧 REPOSITORY UNDER MAINTENANCE
 
-## Overview
+> **Status: Temporarily undergoing updates**
 
-Designed and implemented a modular Python reconnaissance engine for controlled penetration-testing engagements. The project emphasized programmatic Rules-of-Engagement enforcement, controlled network interrogation, protocol parsing, virtual-host discovery, and automated testing.
+This repository is currently being reviewed, reorganized, and updated to improve its code quality, documentation, structure, and overall usability.
 
-## What I Built
+I'm working on refining the project and preparing an improved version. Some content may be incomplete or temporarily outdated during this process.
 
-- A programmatic Scope Guard to validate targets before network activity.
-- TCP/socket adapters for custom line-oriented protocols.
-- HTTP/vhost-aware enumeration.
-- Structured JSON/CSV/XML result handling.
-- Automated tests covering engine behavior and parser fidelity.
+### What's happening?
 
-## Results
+- Updating and reviewing existing code
+- Improving documentation and usage instructions
+- Refining project structure and implementation
+- Reviewing examples, testing, and technical accuracy
 
-- 20/20 automated tests passed.
-- Demonstrated controlled multi-protocol enumeration.
-- Identified information leakage and insecure diagnostic exposure in a lab target.
-- Validated a repeatable, scope-aware reconnaissance workflow.
+### For now
 
-## Skills
+Please consider the current contents a work in progress. Check back for updates as development continues.
 
-`Python` `TCP Sockets` `HTTP` `Protocol Analysis` `Reconnaissance` `VAPT` `Scope Enforcement` `Security Automation` `Pytest`
+**Maintained by:** (https://github.com/AnonymousXm) · `st3alth.0x`
 
-## Portfolio Summary
+---
 
-Architected and implemented a modular Python VAPT reconnaissance engine with programmatic Rules-of-Engagement enforcement, TCP and HTTP adapters, custom-protocol interrogation, structured result parsing, and automated testing. Demonstrated how small information leaks can be chained into a controlled assessment while maintaining strict scope boundaries.
-
-## Public-Safety Note
-
-Credentials, foothold flags, internal hostnames, ports, routes, and assessment-specific identifiers are excluded.
+*Thanks for your patience while this repository is being improved.*
